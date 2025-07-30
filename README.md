@@ -1,5 +1,6 @@
 # HEATER-COOLER-SYSTEM-USING-AVR
-
+## email: 3mr12213@gmail.com
+## Mohamed Abu elazaim Mohamed
 At system startup, the set temperature is initialized to 60°C by default. As a result, the heater is activated, causing the actual temperature to gradually increase until it matches the desired setpoint, at which point the system becomes stable.
 
 When the heating button is pressed, the set temperature increases by 5°C. Consequently, the heater turns ON to raise the actual temperature until it equals the new setpoint.
