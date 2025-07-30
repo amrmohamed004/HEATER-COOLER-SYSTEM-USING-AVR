@@ -19,3 +19,4 @@ A blinking blue LED indicates active cooling.
 For simulation purposes, both the heater and cooler have been replaced with red and blue LEDs, respectively. In real-world applications, these would be replaced by the actual heater and cooling units.
 
 Finally, the last set temperature is stored in the internal EEPROM of the microcontroller to retain system memory across power cycles.
+<img width="1465" height="822" alt="Image" src="https://github.com/user-attachments/assets/3b852fb1-8aa8-4e84-bc6f-9631a2fdece4" />
